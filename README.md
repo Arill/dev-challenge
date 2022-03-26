@@ -8,5 +8,5 @@ Developed with
 
 # Usage
 
-Simply run the `index.js` script with the input csv file in the same directory.
+Simply run the `index.js` script with the `input.csv` input file in the same directory.
 The output JSON file will be saved as `output.json`.
