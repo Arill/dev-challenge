@@ -1,0 +1,12 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Dev challenge",
+  "main": "index.js",
+  "author": "Ariel Semensato",
+  "license": "ISC",
+  "engines" : { 
+    "npm" : ">=8.5.0",
+    "node" : ">=16.14.2"
+  }
+}
